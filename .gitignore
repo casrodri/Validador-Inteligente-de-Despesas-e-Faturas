@@ -1,0 +1,25 @@
+# --- Ambiente Virtual ---
+venv/
+env/
+.venv/
+
+# --- Variáveis de Ambiente (Segurança) ---
+.env
+
+# --- Cache do Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# --- IDEs e Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs e Ficheiros Temporários ---
+*.log
